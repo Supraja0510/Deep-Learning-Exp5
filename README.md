@@ -29,9 +29,9 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 
 ##**PROGRAM**
 
-**Name:Rahul M R**
+**Name:Supraja B**
 
-**Register Number: 2305003005**
+**Register Number: 2305002026**
 
 ```python
 import numpy as np
